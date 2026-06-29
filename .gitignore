@@ -2,3 +2,7 @@
 .env
 
 *.db*
+
+models/
+
+__pycache__/
